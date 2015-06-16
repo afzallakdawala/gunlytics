@@ -1,0 +1,12 @@
+GEM
+  specs:
+    nestful (1.0.7)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  nestful
+
+BUNDLED WITH
+   1.10.3
