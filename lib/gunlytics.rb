@@ -1,3 +1,4 @@
+require 'net/http'
 class Gunlytics
   def self.hi
     puts "Hello world!"
